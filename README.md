@@ -1,1 +1,1 @@
-# deepsea-server2
+# deepseaserver2
